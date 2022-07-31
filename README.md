@@ -5,8 +5,7 @@ option={1:"Owner", 2: "Tenant", 3:"Approver"}
 mylist_house=[]
 add_house=[]
 class main_class:
-
-    print("WELCOME to our page!!!\n")
+     print("WELCOME to our page!!!\n")
 
     def available_houses(self):
         print()
